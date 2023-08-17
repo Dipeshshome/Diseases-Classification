@@ -3,7 +3,6 @@ pandas
 dvc
 notebook
 numpy
-numpy
 matplotlib
 seaborn
 python-box==6.0.2
