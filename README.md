@@ -1,6 +1,6 @@
 # Diseases-Classification
 
-##Workflows maintained
+## Workflows maintained
 
 1.Update config.yaml<br>
 2.Update secrets.yaml [Optional] for database and other crededentials. <br>
@@ -27,4 +27,6 @@
 1. dvc init.<br>
 2. dvc repro.<br>
 3. dvc dag.<br>
+
+UI training: http://127.0.0.1:8080/train
 
