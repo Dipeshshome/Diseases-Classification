@@ -28,5 +28,10 @@
 2. dvc repro.<br>
 3. dvc dag.<br>
 
-UI training: http://127.0.0.1:8080/train
+## Requirements Installation
+pip install -r requirements.txt
+
+## Application running
+1. python app.py
+2. UI training: http://127.0.0.1:8080/train
 
