@@ -59,9 +59,6 @@ pip install -r requirements.txt<br>
 
 Save the URI<br>
 
-## Create ECR repo to store/save docker image
-Save the URI
-
 ## Create EC2 machine (Ubuntu)
 
 ## Open EC2 and Install docker in EC2 Machine:
