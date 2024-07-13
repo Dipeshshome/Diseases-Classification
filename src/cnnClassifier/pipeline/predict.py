@@ -48,7 +48,7 @@ class PredictionPipeline:
         # Example API endpoint (replace with your actual endpoint)
         api_endpoint = "https://api.openai.com/v1/chat/completions"
         headers = {
-            "Authorization": "Bearer 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",
+            "Authorization": "Bearer sk-1ziN6oa9vm7EpmpM5yXkT3BlbkFmkMWpwCowHt1W3jlAqOeV",
             "Content-Type": "application/json"
         }
         payload = {
